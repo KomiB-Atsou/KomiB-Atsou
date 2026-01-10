@@ -6,6 +6,14 @@ LinkedIn: https://www.linkedin.com/in/komi-b-atsou/?locale=en_US
 Website: https://komi-b-atsou.com  
 Researchgate : https://www.researchgate.net/profile/Komi-Bi-Ayefo-Atsou
 
+List of repositories
+
+| Type | Repo name | Description |
+|-----------|-----------|-----------|
+| Data Quality  |  |  |
+| Data Quality |   |  |
+
+
 <!--
 **KomiB-Atsou/KomiB-Atsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
